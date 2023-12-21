@@ -17,7 +17,7 @@ This repository contains the source code for my personal homepage, a custom land
 - git add .
 ## Preview
 
-![MY-DEFAULT PAGE OF CHROME] (https://github.com/Hunterdii/MY-DEFAULT-PAGE-OF-CHROME-/assets/124852522/5a4fcb72-10e5-4ea6-8c09-0d8c06b0100f)
+![Screenshot 1](https://github.com/Hunterdii/MY-DEFAULT-PAGE-OF-CHROME-/assets/124852522/5a4fcb72-10e5-4ea6-8c09-0d8c06b0100f)
 
 ## Usage
 
