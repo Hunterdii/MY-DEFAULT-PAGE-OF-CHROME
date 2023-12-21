@@ -27,6 +27,6 @@ This README provides an overview of your project, instructions for usage and cus
 1. Clone the repository to your local machine:
 
    ```bash
-   [git clone https://github.com/your-username/personal-homepage.git](https://github.com/Hunterdii/Book-Animation)https://github.com/Hunterdii/Book-Animation
-
+[   [git clone https://github.com/your-username/personal-homepage.git](https://github.com/Hunterdii/Book-Animation)https://github.com/Hunterdii/Book-Animation
+](https://github.com/Hunterdii/MY-DEFAULT-PAGE-OF-CHROME-/tree/main/MY%20chrome%20default%20Page)https://github.com/Hunterdii/MY-DEFAULT-PAGE-OF-CHROME-/tree/main/MY%20chrome%20default%20Page
    
