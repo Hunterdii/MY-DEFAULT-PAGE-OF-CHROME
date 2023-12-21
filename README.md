@@ -21,8 +21,7 @@ This repository contains the source code for my personal homepage, a custom land
 
 ## Usage
 
-Replace `https://github.com/Hunterdii/MY-DEFAULT-PAGE-OF-CHROME-/assets/124852522/5a4fcb72-10e5-4ea6-8c09-0d8c06b0100f` with the actual path or URL of your screenshot. When users view your README on GitHub, they will see the screenshot displayed in the README.
-
+use as ur custom links and go to settings of chrome and add it on Start-Up of page on this add ur path [Open a specific page or set of pages]
 
 1. Clone the repository to your local machine:
 
