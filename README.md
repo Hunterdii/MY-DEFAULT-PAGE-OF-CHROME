@@ -4,15 +4,15 @@ Welcome to the repository for my personal homepage – a custom landing page cra
 
 ## Features
 
-- **Responsive Design:** Experience a seamless and visually appealing interface that adapts to various devices, ensuring a consistent and enjoyable browsing experience on desktops, tablets, and mobile phones.
+- **Responsive Design:** 📱Experience a seamless and visually appealing interface that adapts to various devices, ensuring a consistent and enjoyable browsing experience on desktops, tablets, and mobile phones.
 
-- **Customizable:** Tailor the homepage to suit your preferences by effortlessly modifying links, social buttons, and other content, making it uniquely yours.
+- **Customizable:** ✏️Tailor the homepage to suit your preferences by effortlessly modifying links, social buttons, and other content, making it uniquely yours.
 
-- **Editable Text:** Personalize the main text on the page to reflect your mood, personality, or any other desired content. A simple click is all it takes to update the text.
+- **Editable Text:** 📝Personalize the main text on the page to reflect your mood, personality, or any other desired content. A simple click is all it takes to update the text.
 
-- **Quick Search:** Utilize the integrated search bar for swift Google searches. Enter your query, hit enter, and access search results promptly.
+- **Quick Search:** 🔍Utilize the integrated search bar for swift Google searches. Enter your query, hit enter, and access search results promptly.
 
-- **App Links:** Conveniently access your favorite apps with customizable labels and URLs directly from the homepage.
+- **App Links:** 🚀Conveniently access your favorite apps with customizable labels and URLs directly from the homepage.
 
 ## Demo
 
